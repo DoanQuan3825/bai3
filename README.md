@@ -14,7 +14,7 @@ Tạo Bảng Khách Hàng
 
 Tạo Bảng Log Giao Dịch
 
-!([image]image/4.png)
+![image](image/4.png)
 
 tạo Bảng Tài Sản
 
